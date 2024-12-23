@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-## 📱 Overview
+## Overview
 
 The **Expense Tracker App** is a sleek and minimalistic application built using Flutter to help users manage their finances efficiently. It allows adding, editing, and deleting expenses with a user-friendly interface.&#x20;
 
@@ -17,7 +17,7 @@ The **Expense Tracker App** is a sleek and minimalistic application built using 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Flutter** - Frontend framework for building cross-platform apps.
 - **ISAR Database** - Local storage solution.
